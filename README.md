@@ -1,6 +1,6 @@
 # Copy-on-Write Fork for xv6
 
-My implementation of copy-on-write fork in the xv6 kernel. This project is a lab assigment for the MIT course CS-081: Operating System Engineering of Fall 2021.
+My implementation of copy-on-write fork in the xv6 kernel. This project is a lab assigment for the MIT course CS-081: Operating System Engineering. The Syllabus can be found in [CS 081 Fall 2021](https://pdos.csail.mit.edu/6.828/2021/schedule.html).
 
 ### The Problem
 
